@@ -1,0 +1,39 @@
+info: INFO: Symbol LV_MEM_SIZE_KILOBYTES defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:2
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:73
+info: INFO: Symbol LV_USE_DEMO_WIDGETS defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:1090
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:6
+info: INFO: Symbol LV_DEMO_WIDGETS_SLIDESHOW defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:1093
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:10
+info: INFO: Symbol LV_USE_DEMO_KEYPAD_AND_ENCODER defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:1098
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:15
+info: INFO: Symbol LV_USE_DEMO_BENCHMARK defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:1102
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:19
+info: INFO: Symbol LV_USE_DEMO_STRESS defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:1110
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:23
+info: INFO: Symbol LV_USE_DEMO_MUSIC defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:27
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:1114
+info: INFO: Symbol LV_FONT_MONTSERRAT_12 defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:32
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:497
+info: INFO: Symbol LV_FONT_MONTSERRAT_14 defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:499
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:36
+info: INFO: Symbol LV_FONT_MONTSERRAT_16 defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:40
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\components\lvgl__lvgl\Kconfig:502
+info: INFO: Symbol BT_ENABLED defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\test_esp32_dmos5031\esp-idf-v5.4\esp-idf-v5.4\components\bt\Kconfig:3
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:46
+info: INFO: Symbol BT_BLE_50_FEATURES_SUPPORTED defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:50
+    D:\esp32\test_esp32_dmos5031\esp-idf-v5.4\esp-idf-v5.4\components\bt\host\bluedroid\Kconfig.in:1219
+info: INFO: Symbol BT_BLE_42_FEATURES_SUPPORTED defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    D:\esp32\ESP32-S3-LCD-1.47B-Demo\ESP32-S3-LCD-1.47B-Test\main\Kconfig.projbuild:54
+    D:\esp32\test_esp32_dmos5031\esp-idf-v5.4\esp-idf-v5.4\components\bt\host\bluedroid\Kconfig.in:1229

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/CMakeFiles/bootloader
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/CMakeFiles/bootloader.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/CMakeFiles/bootloader-complete.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/esp32/ESP32-S3-LCD-1.47B-Demo/ESP32-S3-LCD-1.47B-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

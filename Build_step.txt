@@ -1,0 +1,14 @@
+# 1.  准备编译环境
+.\start_env.ps1
+
+# 2. 编译
+idf.py build
+
+# 3. 烧录（把 COM3 换成你的实际串口号）
+idf.py -p COM3 flash
+
+# 4. 查看串口输出
+idf.py -p COM3 monitor
+注意：必须在 PowerShell 中运行（Win+R → powershell），Git Bash / CMD 都不支持 ESP-IDF v5.4 的环境脚本。
+
+如果已经有 build/ 目录且之前编译过，直接 idf.py build flash monitor 即可一步完成编译+烧录+监视。
